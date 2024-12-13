@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.gradient {
+   /* linear-gradient(90deg, black 40%, rgba(14, 13, 13, 0.7) 65%, rgba(14, 13, 13, 0.29) 100%); */
+   background: linear-gradient(90deg, #d53369 0%, #daae51 100%);
+  }
+  
